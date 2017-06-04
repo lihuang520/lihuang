@@ -1,0 +1,4 @@
+Python 2.7
+Django 1.9.2
+Urllib 1.21
+Ë¼Â·£ºDjango+ÅÀ³æ
